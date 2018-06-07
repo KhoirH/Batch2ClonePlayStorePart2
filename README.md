@@ -37,7 +37,7 @@ Make sure you already installed React Native and have emulator or real device ru
 ```
 $ cd Batch2ClonePlayStorePart2/CrnaDwBoilerplate
 $ npm install
-$ 
+$ exp start
 ```
 
 ## Screenshot
